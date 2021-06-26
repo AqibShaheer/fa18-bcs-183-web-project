@@ -7,7 +7,7 @@ export default ({ portfolioLinks }) => {
           <div className="row">
             <div className="col-lg-12 text-center">
               <h2 className="section-heading text-uppercase">Portfolio</h2>
-              <h3 className="section-subheading text-muted">Here you see best of our works.</h3>
+              <h3 className="section-subheading text-muted">Here are our best portfolio</h3>
             </div>
           </div>
           <div className="row">

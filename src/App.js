@@ -83,7 +83,7 @@ function App() {
       <div className="row">
         <div className="col-lg-12 text-center">
           <h2 className="section-heading text-uppercase">Services</h2>
-          <h3 className="section-subheading text-muted">Here you can see our services.</h3>
+          <h3 className="section-subheading text-muted">Here are the services we provide.</h3>
         </div>
       </div>
       <div className="row text-center">
@@ -93,7 +93,7 @@ function App() {
             <i className="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
           </span>
           <h4 className="service-heading">E-Commerce</h4>
-          <p className="text-muted">We provide best E-commerce websites to our clients, where they can groe their business online in a better way.</p>
+          <p className="text-muted">We build Ecommerce Websites which helps you do your business online too including proper categries of your products.</p>
         </div>
         <div className="col-md-4">
           <span className="fa-stack fa-4x">
@@ -101,7 +101,7 @@ function App() {
             <i className="fa fa-laptop fa-stack-1x fa-inverse"></i>
           </span>
           <h4 className="service-heading">Responsive Design</h4>
-          <p className="text-muted">Responsiveness is a key for a website to look attractive in alll devices. We create websites that are fully responsive on all devices.</p>
+          <p className="text-muted">Responsiveness is the one of the most important key factor a website should have. We make websites which are 100% responsive on all the devices.</p>
         </div>
         <div className="col-md-4">
           <span className="fa-stack fa-4x">
@@ -109,7 +109,7 @@ function App() {
             <i className="fa fa-lock fa-stack-1x fa-inverse"></i>
           </span>
           <h4 className="service-heading">Web Security</h4>
-          <p className="text-muted">We provide full web security which includes SSL and plus insert other features too which fully secure your site so that you can grow youor business without any fear.</p>
+          <p className="text-muted">We take care of your security, we insert proper SSL in your websites or give you proper information about hosting SSl plus add security features in your website, so that you can work without any fear.</p>
         </div>
       </div>
     </div>
@@ -124,7 +124,7 @@ function App() {
       <div className="row">
         <div className="col-lg-12 text-center">
           <h2 className="section-heading text-uppercase">About</h2>
-          <h3 className="section-subheading text-muted">Here you can know more about us.</h3>
+          <h3 className="section-subheading text-muted">Here you will know more About us.</h3>
         </div>
       </div>
       <div className="row">
@@ -140,7 +140,7 @@ function App() {
                   <h4 className="subheading">Our Humble Beginnings</h4>
                 </div>
                 <div className="timeline-body">
-                  <p className="text-muted">We start our workings in 2009 and due to our hard work and best projects we take our work to next level</p>
+                  <p className="text-muted">We started our workings from 2009, and due to hard and consistent workings we take ourselves to next level</p>
                 </div>
               </div>
             </li>
@@ -154,7 +154,7 @@ function App() {
                   <h4 className="subheading">An Agency is Born</h4>
                 </div>
                 <div className="timeline-body">
-                  <p className="text-muted">On March 2011 we create an agency so that we can work in an organized way</p>
+                  <p className="text-muted">On March 2011 we make an agency as so we get to make and work in more organized way.</p>
                 </div>
               </div>
             </li>
@@ -168,7 +168,7 @@ function App() {
                   <h4 className="subheading">Transition to Full Service</h4>
                 </div>
                 <div className="timeline-body">
-                  <p className="text-muted">We provide both front-end and back-end web services</p>
+                  <p className="text-muted">We provide full front and back end services in Web Development in most advaced way.</p>
                 </div>
               </div>
             </li>
@@ -182,7 +182,7 @@ function App() {
                   <h4 className="subheading">Phase Two Expansion</h4>
                 </div>
                 <div className="timeline-body">
-                  <p className="text-muted">This include both Web Development and Mobile Application Developement</p>
+                  <p className="text-muted">Phase two expansion means we provide both Web Development and Mobile Application Development Services</p>
                 </div>
               </div>
             </li>
@@ -205,7 +205,7 @@ function App() {
       <div className="row">
         <div className="col-lg-12 text-center">
           <h2 className="section-heading text-uppercase">Our Amazing Team</h2>
-          <h3 className="section-subheading text-muted">Meet our Amazing Team.</h3>
+          <h3 className="section-subheading text-muted">Be part of our Amazing Story.</h3>
         </div>
       </div>
       <div className="row">
@@ -261,7 +261,7 @@ function App() {
           <div className="team-member">
             <img className="mx-auto rounded-circle" src="img/team/3.jpg" alt=""/>
             <h4>SK</h4>
-            <p className="text-muted">Front-End Developer</p>
+            <p className="text-muted">Lead Front-end Developer</p>
             <ul className="list-inline social-buttons">
               <li className="list-inline-item">
                 <a href="#something">
@@ -284,7 +284,7 @@ function App() {
       </div>
       <div className="row">
         <div className="col-lg-8 mx-auto text-center">
-          <p className="large text-muted">We have best and professional team members which gives their 100% in work.</p>
+          <p className="large text-muted">Meet our most professional and skilled team members.</p>
         </div>
       </div>
     </div>
@@ -324,7 +324,7 @@ function App() {
       <div className="row">
         <div className="col-lg-12 text-center">
           <h2 className="section-heading text-uppercase">Contact Us</h2>
-          <h3 className="section-subheading text-muted">Contact Us for any query.</h3>
+          <h3 className="section-subheading text-muted">Contant Us for any query.</h3>
         </div>
       </div>
       <div className="row">
@@ -368,7 +368,7 @@ function App() {
     <div className="container">
       <div className="row align-items-center">
         <div className="col-md-4">
-          <span className="copyright">Copyright &copy; My website</span>
+          <span className="copyright">Copyright &copy; Your Website 2019</span>
         </div>
         <div className="col-md-4">
           <ul className="list-inline social-buttons">
