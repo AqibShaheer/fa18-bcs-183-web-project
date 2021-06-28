@@ -2,6 +2,8 @@ import React from 'react';
 // import logo from './logo.svg';
 import Portfolio from './components/Portfolio'
 import './App.css';
+import Team from './components/cards.component'
+
 
 function App() {
   const portfolioLinks = [
@@ -30,8 +32,8 @@ function App() {
       caption: 'Photography'
     },
     {
-      title: 'Pizza',
-      caption: 'I love pizza!'
+      title: 'Burgers',
+      caption: 'I love Burgers!'
     }
   ]
 
@@ -65,7 +67,6 @@ function App() {
       </div>
     </div>
   </nav>
-
   
   <header className="masthead">
     <div className="container">
@@ -209,7 +210,7 @@ function App() {
         </div>
       </div>
       <div className="row">
-        <div className="col-sm-4">
+        {/* <div className="col-sm-4">
           <div className="team-member">
             <img className="mx-auto rounded-circle" src="img/team/1.jpg" alt=""/>
             <h4>HJ</h4>
@@ -280,8 +281,11 @@ function App() {
               </li>
             </ul>
           </div>
-        </div>
-      </div>
+        </div> */}
+
+      <Team/>
+
+      </div> 
       <div className="row">
         <div className="col-lg-8 mx-auto text-center">
           <p className="large text-muted">Meet our most professional and skilled team members.</p>
@@ -402,7 +406,10 @@ function App() {
       </div>
     </div>
   </footer>
-    </div>
+
+  
+</div>
+    
   );
 }
 
